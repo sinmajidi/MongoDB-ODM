@@ -114,3 +114,8 @@ mongo_odm.client.close()
 * `replace_many(query, replacements)`: Replace multiple documents matching the query.
 * `rename_collection(old_name, new_name)`: Rename a collection.
 * `rename_database(old_name, new_name)`: Rename a database.
+## Afra IOT
+
+This MongoDB Object-Document Mapper (ODM) is developed for [Afra IOT](https://afraiot.org/), a startup dedicated to providing innovative Internet of Things (IoT) solutions. Afra IOT focuses on leveraging technology to improve efficiency, productivity, and sustainability across various industries.
+
+For more information about Afra IOT and its projects, visit [AfraIOT.org](https://afraiot.org/).
